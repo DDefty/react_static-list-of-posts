@@ -1,5 +1,5 @@
 import React from 'react';
-import { Comments } from '../../types/comments';
+import { Comments } from '../../types/Comments.ts';
 
 interface CommentProps {
   comment: Comments;
