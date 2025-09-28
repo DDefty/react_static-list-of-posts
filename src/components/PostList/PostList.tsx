@@ -1,6 +1,8 @@
 import React from 'react';
 import { PostInfo } from '../PostInfo';
 import { Posts } from '../../types/Posts';
+import './PostList.scss';
+
 interface PostListProps {
   posts: Posts[];
 }

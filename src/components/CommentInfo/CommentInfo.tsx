@@ -1,6 +1,6 @@
 import React from 'react';
 import { Comments } from '../../types/Comments';
-
+import './CommentInfo.scss';
 interface CommentProps {
   comment: Comments;
 }
